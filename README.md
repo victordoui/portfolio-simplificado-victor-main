@@ -1,7 +1,7 @@
 # Portfólio simplificado
 Um projeto de portfólio simplificado para estudo, e futura entrada no mercado de Front-end. 🚀
+![image](https://github.com/victordoui/portfolio-simplificado-victor-main/assets/57809742/cf91d55c-931f-409c-8d6f-f1f4f7ed139d)
 
-[<img src="./src/portfolio-simplificado.gif" alt="Gif da página do portfólio simplificado">](https://victordoui.github.io/portfolio-simplificado/)
 
 ## Tecnologias utilizadas
 - HTML
